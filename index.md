@@ -1,5 +1,7 @@
 
-## Data Science Lifecylce
+## AI & Data Science
+
+- [Learn the basics of AI](https://www.kirenz.com/project/intro-machine-learning/)
 
 ## Machine Learning
 
@@ -19,6 +21,8 @@
 
 
 ## R Programming Language
+
+- [Introduction to R-Markdown](https://www.kirenz.com/project/markdown-first-steps/)
 
 ## SQL
 
