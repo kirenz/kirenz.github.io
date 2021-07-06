@@ -15,30 +15,30 @@
 - TensorFlow Extended
 - Kubeflow
 
---
+---
 
 ## Statistics
 
---
+---
 
 ## Big Data Architectures
 
---
+---
 
 ## Python Programming Language
 
---
+---
 
 ## R Programming Language
 
 - [Introduction to R-Markdown](https://www.kirenz.com/project/markdown-first-steps/)
 
---
+---
 
 ## SQL
 
 
---
+---
 
 
 ---
