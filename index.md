@@ -3,29 +3,42 @@
 
 - [Learn the basics of AI](https://www.kirenz.com/project/intro-machine-learning/)
 
+---
+
 ## Machine Learning
+
+
+---
 
 ## Machine Learning Operations (MLOps)
 
 - TensorFlow Extended
 - Kubeflow
 
+--
 
 ## Statistics
 
+--
 
 ## Big Data Architectures
 
+--
 
 ## Python Programming Language
 
+--
 
 ## R Programming Language
 
 - [Introduction to R-Markdown](https://www.kirenz.com/project/markdown-first-steps/)
 
+--
+
 ## SQL
 
+
+--
 
 
 ---
