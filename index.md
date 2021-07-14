@@ -5,6 +5,21 @@
 
 ---
 
+## Machine Learning Operations (MLOps)
+
+*TensorFlow and TensorFlow Extended (TFX)*
+
+- 💻 [Local installation of TensorFlow & TensorFlow Extended](https://kirenz.github.io/codelabs/codelabs/tfx-install/#0)
+- 💻 [Build your first TFX pipeline](https://kirenz.github.io/codelabs/codelabs/tfx-pipeline-taxi/#0)
+
+*Kubeflow*
+
+- 💻 [Local installation of Kubeflow (MiniKF)](https://kirenz.github.io/codelabs/codelabs/kubeflow-install/#0)
+- 💻 [Build your first Kubeflow pipeline](https://kirenz.github.io/codelabs/codelabs/kubeflow-pipeline/#0)
+
+---
+
+
 ## Python Programming
 
 
@@ -41,22 +56,21 @@
 - [Introduction to R-Markdown](https://www.kirenz.com/project/markdown-first-steps/)
 
 
-## Machine Learning Operations (MLOps)
-
-- TensorFlow Extended
-- Kubeflow
-
----
-
-## Statistics
-
----
-
-## Big Data Architectures
-
 ---
 
 ## SQL
+
+1. [Datenexploration (Selektieren, Ordnen und Filtern)](https://kirenz.github.io/SQL-Introduction/1-sql-intro/sql-intro-select.html#1)
+
+2. [Datentypen und Datentransformationen](https://kirenz.github.io/SQL-Introduction/2-sql-datatypes/sql-datatypes.html)
+
+3. [Gruppieren und Aggregieren](https://kirenz.github.io/SQL-Introduction/3-sql-grouping/sql-grouping.html)
+
+4. [Tabellen verbinden (Joins)](https://kirenz.github.io/SQL-Introduction/4-sql-joins/sql-joins.html)
+
+5. [Tabellen modifizieren](https://kirenz.github.io/SQL-Introduction/5-sql-modify/sql-modify.html)
+
+6. [Subqueries](https://kirenz.github.io/SQL-Introduction/6-sql-sub/sql-sub.html)
 
 
 ---
