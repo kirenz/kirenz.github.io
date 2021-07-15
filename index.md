@@ -2,6 +2,8 @@
 
 - [Learn the basics of AI](https://www.kirenz.com/project/intro-machine-learning/)
 
+- [First steps in Data Science with Python & R](https://github.com/kirenz/data-science-projects)
+
 ---
 
 ## Machine Learning Operations (MLOps)
@@ -30,6 +32,11 @@
 ---
 
 ## R Programming
+
+*Introduction to R*
+
+- [First steps in R](https://kirenz.github.io/introduction-to-r/)
+- 
 
 *Regression and Classifiaction models*
 
@@ -65,6 +72,10 @@
 
 - [Introduction to R-Markdown](https://www.kirenz.com/project/markdown-first-steps/)
 
+
+*Webscraping*
+
+- [Webscraoing with R](https://github.com/kirenz/webscraping-with-r)
 
 ---
 
