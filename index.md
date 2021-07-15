@@ -42,6 +42,7 @@
 
 - [Introduction to Regression and Classification with Tidymodels in R](https://data-science-tidymodels.netlify.app/index.html)
 
+-[XGBoost Hyperparameter tuning](http://htmlpreview.github.io/?https://github.com/kirenz/tidymodels-in-r/blob/main/05-tidymodels-xgboost-tuning.html)
 
 *Classification with Tidymodels*
 
