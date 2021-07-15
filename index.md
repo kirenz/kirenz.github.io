@@ -31,6 +31,10 @@
 
 ## R Programming
 
+*Regression and Classifiaction models*
+
+- [Introduction to Regression and Classification with Tidymodels in R](https://data-science-tidymodels.netlify.app/index.html)
+
 *Classification with Tidymodels*
 
 - [Classification with Tidymodels, Workflows and Recipes](https://www.kirenz.com/post/2021-02-17-r-classification-tidymodels/)
