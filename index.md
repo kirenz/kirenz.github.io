@@ -59,7 +59,9 @@
 
 - [Data exploration with ggplot2](https://kirenz.github.io/data-exploration-in-r/)
 
-*RMarkdown*
+*Create Reports with RMarkdown*
+
+- [Reporting in RMarkdown](https://github.com/kirenz/markdown-report)
 
 - [Introduction to R-Markdown](https://www.kirenz.com/project/markdown-first-steps/)
 
