@@ -6,7 +6,7 @@
 
 ---
 
-## Machine Learning Operations (MLOps)
+## Machine Learning Operations (MLOps) with Python
 
 *TensorFlow and TensorFlow Extended (TFX)*
 
@@ -36,7 +36,11 @@
 *Introduction to R*
 
 - [First steps in R](https://kirenz.github.io/introduction-to-r/)
-- 
+
+*Data Wrangling*
+
+- [Introduction to data wrangling](http://htmlpreview.github.io/?https://github.com/kirenz/data-wrangling-with-r/blob/main/data-wrangling.html)
+
 
 *Regression and Classifiaction models*
 
@@ -44,12 +48,11 @@
 
 -[XGBoost Hyperparameter tuning](http://htmlpreview.github.io/?https://github.com/kirenz/tidymodels-in-r/blob/main/05-tidymodels-xgboost-tuning.html)
 
-*Classification with Tidymodels*
-
 - [Classification with Tidymodels, Workflows and Recipes](https://www.kirenz.com/post/2021-02-17-r-classification-tidymodels/)
 
 - [Data Science with Tidymodels, Workflows and Recipes](https://www.kirenz.com/post/2020-12-19-r-tidymodels-housing/)
 
+[Lasso regression hyperparameter tuning](http://htmlpreview.github.io/?https://github.com/kirenz/tidymodels-in-r/blob/main/06-tidymodels-lasso.html)
 
 *Clusteranalyse*
 
