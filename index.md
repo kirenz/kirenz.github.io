@@ -35,6 +35,7 @@
 
 - [Introduction to Regression and Classification with Tidymodels in R](https://data-science-tidymodels.netlify.app/index.html)
 
+
 *Classification with Tidymodels*
 
 - [Classification with Tidymodels, Workflows and Recipes](https://www.kirenz.com/post/2021-02-17-r-classification-tidymodels/)
@@ -50,9 +51,13 @@
 
 - [Introduction to Association Rule Mining in R](https://www.kirenz.com/post/2020-05-14-r-association-rule-mining/)
 
-*Text Mining in R*
+*Text Mining*
 
 - [Text Mining in R](https://www.kirenz.com/post/2019-09-16-r-text-mining/)
+
+*Data Exploration*
+
+- [Data exploration with ggplot2](https://kirenz.github.io/data-exploration-in-r/)
 
 *RMarkdown*
 
