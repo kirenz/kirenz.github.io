@@ -18,6 +18,10 @@
 - 💻 [Local installation of Kubeflow (MiniKF)](https://kirenz.github.io/codelabs/codelabs/kubeflow-install/#0)
 - 💻 [Build your first Kubeflow pipeline](https://kirenz.github.io/codelabs/codelabs/kubeflow-pipeline/#0)
 
+*Apache Airflow*
+
+- 💻 [Local installation of Apache Airflow](https://kirenz.github.io/codelabs/codelabs/airflow-setup/#0)
+
 ---
 
 
@@ -27,6 +31,10 @@
 - [Lasso Regression with Python](https://www.kirenz.com/post/2019-08-12-python-lasso-regression-auto/)
 
 - [Social Network Analysis with Python](https://www.kirenz.com/post/2019-08-13-network_analysis/)
+
+- 💻 [Local installation of Jupyter Book](https://kirenz.github.io/codelabs/codelabs/jupyter-book/#0)
+
+- 💻 [Local installation of Plotly Dash](https://kirenz.github.io/codelabs/codelabs/dash-setup/#0)
 
 
 ---
