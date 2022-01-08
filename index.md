@@ -17,7 +17,9 @@
 
 - [Clustering](https://kirenz.github.io/clustering/intro.html)
 
+<!--
 - [Feature Engineering](https://kirenz.github.io/feature-engineering/docs/intro.html)
+-->
 
 - [Data wrangling with pandas](https://kirenz.github.io/pandas/intro.html)
 
