@@ -2,11 +2,37 @@
 
 - [Learn the basics of AI](https://www.kirenz.com/project/intro-machine-learning/)
 
+<!--
 - [First steps in Data Science with Python & R](https://github.com/kirenz/data-science-projects)
+-->
 
 ---
 
-## Machine Learning Operations (MLOps) with Python
+## Python Programming
+
+- [Programming Toolkit](https://kirenz.github.io/ds-python/docs/intro.html)
+
+- [Regression](https://kirenz.github.io/regression/docs/intro.html)
+
+- [Classification](https://kirenz.github.io/classification/docs/intro.html)
+
+- [Clustering](https://kirenz.github.io/clustering/intro.html)
+
+- [Feature Engineering](https://kirenz.github.io/feature-engineering/docs/intro.html)
+
+- [Data wrangling with pandas](https://kirenz.github.io/pandas/intro.html)
+
+- 💻 [Local installation of Jupyter Book](https://kirenz.github.io/codelabs/codelabs/jupyter-book/#0)
+
+- 💻 [Local installation of Plotly Dash](https://kirenz.github.io/codelabs/codelabs/dash-setup/#0)
+
+
+---
+
+## Data Engineering &  Machine Learning Operations (MLOps)
+
+- [Data Engineering basics](https://kirenz.github.io/data-engineering/docs/intro.html)
+
 
 *TensorFlow and TensorFlow Extended (TFX)*
 
@@ -21,23 +47,6 @@
 *Apache Airflow*
 
 - 💻 [Local installation of Apache Airflow](https://kirenz.github.io/codelabs/codelabs/airflow-setup/#0)
-
----
-
-
-## Python Programming
-
-
-- [Lasso Regression with Python](https://www.kirenz.com/post/2019-08-12-python-lasso-regression-auto/)
-
-- [Social Network Analysis with Python](https://www.kirenz.com/post/2019-08-13-network_analysis/)
-
-- 💻 [Local installation of Jupyter Book](https://kirenz.github.io/codelabs/codelabs/jupyter-book/#0)
-
-- 💻 [Local installation of Plotly Dash](https://kirenz.github.io/codelabs/codelabs/dash-setup/#0)
-
-
----
 
 ## R Programming
 
@@ -88,7 +97,7 @@
 
 *Webscraping*
 
-- [Webscraoing with R](https://github.com/kirenz/webscraping-with-r)
+- [Webscraping with R](https://github.com/kirenz/webscraping-with-r)
 
 ---
 
@@ -105,6 +114,7 @@
 5. [Tabellen modifizieren](https://kirenz.github.io/SQL-Introduction/5-sql-modify/sql-modify.html)
 
 6. [Subqueries](https://kirenz.github.io/SQL-Introduction/6-sql-sub/sql-sub.html)
+
 
 
 ---
