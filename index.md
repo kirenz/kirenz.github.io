@@ -1,4 +1,3 @@
-## AI & Data Science
 
 - [Learn the basics of AI](https://www.kirenz.com/project/intro-machine-learning/)
 
