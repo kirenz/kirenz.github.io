@@ -9,7 +9,9 @@
 
 ## Python Programming
 
-- [Programming Toolkit](https://kirenz.github.io/ds-python/docs/intro.html)
+- [Intro to Python and Programming Toolkit](https://kirenz.github.io/python-basics/docs/intro.html)
+
+- [Data Science in Python with scikit-learn](https://kirenz.github.io/ds-python/docs/intro.html)
 
 - [Regression](https://kirenz.github.io/regression/docs/intro.html)
 
